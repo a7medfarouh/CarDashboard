@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/CarDashboard/static/css/main.e57bc710.css",
+    "main.js": "/CarDashboard/static/js/main.744e1901.js",
+    "static/js/787.d053ff59.chunk.js": "/CarDashboard/static/js/787.d053ff59.chunk.js",
+    "static/media/fa-solid-900.ttf": "/CarDashboard/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/CarDashboard/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/CarDashboard/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/CarDashboard/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/CarDashboard/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/car-01.png": "/CarDashboard/static/media/car-01.853892a453ff0f4cb988.png",
+    "static/media/car-05.png": "/CarDashboard/static/media/car-05.6381cf2bac4ffbec35e3.png",
+    "static/media/car-04.png": "/CarDashboard/static/media/car-04.2e4cd8463e585fcad69f.png",
+    "static/media/car-06.png": "/CarDashboard/static/media/car-06.487847d405ad076ea08d.png",
+    "static/media/car-02.png": "/CarDashboard/static/media/car-02.afc5836a441bc5fc59ec.png",
+    "static/media/car-03.png": "/CarDashboard/static/media/car-03.65682e78fe239b4a6992.png",
+    "static/media/mini-car-01.png": "/CarDashboard/static/media/mini-car-01.168a343d8c19289fbd29.png",
+    "static/media/mini-car-02.png": "/CarDashboard/static/media/mini-car-02.0a16e0de72a5b214775e.png",
+    "static/media/fa-regular-400.woff2": "/CarDashboard/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/mini-car-03.png": "/CarDashboard/static/media/mini-car-03.9a9227fff3c5879458cd.png",
+    "static/media/fa-v4compatibility.ttf": "/CarDashboard/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/CarDashboard/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/CarDashboard/index.html",
+    "main.e57bc710.css.map": "/CarDashboard/static/css/main.e57bc710.css.map",
+    "main.744e1901.js.map": "/CarDashboard/static/js/main.744e1901.js.map",
+    "787.d053ff59.chunk.js.map": "/CarDashboard/static/js/787.d053ff59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e57bc710.css",
+    "static/js/main.744e1901.js"
+  ]
+}
